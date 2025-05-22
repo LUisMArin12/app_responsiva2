@@ -123,7 +123,7 @@ Desarrollar una solución digital integral que permita a los usuarios:
 - 🎨 **Mockups en Figma:**  
   _[Enlace por definir]_
 
-- 💻 **Repositorio y Evidencia Técnica:**  
+- 💻 **Evidencia Técnica:**  
   _[Enlace por definir]_
 
 ---
